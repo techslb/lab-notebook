@@ -1,0 +1,42 @@
+### Lab Notebook Entry [2025-10-29]
+
+## Focus/Objective
+1. Continue basic IT learning for A+ concepts.
+2. Continue learning and apllying Java programming concepts.
+3. Continue learning math foundations.
+4. Start learning pre-reqs for cyber security.
+
+## Context/Setup
+1. Professor Messer A+ learning videos for IT.
+2. Codecademy Java OOP course for Java concepts.
+3. Khan Academy math vdieos for math foundations.
+4. TryHackMe lab for pre-reqs.
+
+## Actions/Procedures
+1. Reviewed all notes and flashcards for IT and Java.
+2. Completed a Java project for a toy droid project and uploaded to Github
+3. Watched a new IT video from Professor Messer's Youtube channle and took notes.
+4. Watched a new Khan Academy video, took notes, and completed the required exercises.
+
+## Observations
+1. I am incredibly rusty with problem solving with Java. Had an issue with direct object to object interactions and manipulation.
+2. Math, IT, and cyber secuirty learnings today felt unchallenging but needed as Java took more attention today.
+
+## Analysis/Interpretation
+1. Still a novice in Java, therefore it is expected I run into issues as I am learning.
+
+## Next Steps/Questions
+1. Continue applying concepts, working through platforms, especially with Java, and reviewing flashcards daily.
+2. How do i perform object to object manipulation in OOP Java?
+
+## Reflection
+1. Was frustrated with Java today, but after typing this journal I have to remember that I am still considered a novice, and mistakes are apart of the process.
+2. I forgot that you don't 'double-dip' with a void method and calling one, for example:
+
+>>> myDroid.batteryStatus(); // Correct
+
+as opposed to:
+
+>>> System.out.println(myDroid.batteryStatus());
+
+This caused about 10 minutes of debugging and confusion but realized the method was void, and a printed message was already defined in my class method definition. Hence the term, 'double-dipping'.
